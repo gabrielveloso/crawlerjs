@@ -1,0 +1,22 @@
+{
+  "name": "crawler",
+  "version": "1.0.0",
+  "description": "crawler example",
+  "main": "novo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielveloso/crawlerjs.git"
+  },
+  "author": "Gabriel Azuirson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielveloso/crawlerjs/issues"
+  },
+  "homepage": "https://github.com/gabrielveloso/crawlerjs#readme",
+  "dependencies": {
+    "crawler-js": "^2.0.1"
+  }
+}
